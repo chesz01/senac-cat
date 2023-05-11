@@ -3,7 +3,7 @@
 #5W2H
 
  - O quê é o GitHub?
-
+uma plataforma de gerenciamento de documentos para um projeto, de forma que sao divididos em partes e necessitam de avaliação para serem inseridos no projéto principal.
 
  - Por que usar o GitHub?
 
